@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">La Roda FM</string>
+    <string name="title_activity_send_mail">Contacto</string>
+    <string name="title_activity_nuestro_pueblo">Nuestro Pueblo</string>
+
+    <!-- VENTANA DE CARGA DE RADIO -->
+    <string name="title_ventCarga">Un momento...</string>
+    <string name="text_ventCarga">Conectando con el servidor...</string>
+
+    <!-- NOTIFICACIÓN DE REPRODUCCIÓN EN 2 PLANO -->
+    <string name="tickerNotif">Reproducción en curso</string>
+    <string name="textoNotif">Reproducción en segundo plano</string>
+
+    <!-- VENTANA DE ERROR DE RED -->
+    <string name="titleErrorRed">Error de conexión</string>
+    <string name="textErrorRed">No está conectado a ninguna red de datos. Por favor, revise su conexión e inténtelo de nuevo</string>
+    <string name="btnOkErrorRed">OK</string>
+
+    <!-- ELEMENTOS DEL MENÚ -->
+    <string name="menuEscribir">¡Escríbenos!</string>
+    <string name="menuNuestroPueblo">Nuestro pueblo</string>
+    <string name="menuSalir">Salir</string>
+    <string name="report_error">Notificar un error</string>
+    <string name="title_activity_error_report">Notificar errores</string>
+
+</resources>
